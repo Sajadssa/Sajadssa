@@ -17,7 +17,7 @@ Web developer,with extensive knowledge and years of experience,working in web te
 * 🖥️  See my portfolio at [sajadsaeediazadresume.netlify.app](http://sajadsaeediazadresume.netlify.app)
 * ✉️  You can contact me at [sajadsaeediazad0007@gmail.com](mailto:sajadsaeediazad0007@gmail.com)
 * 🧠  I'm learning javascript and React
-* 🤝  I'm open to collaborating on Software and Web Developer
+* 🤝  I'm open to collaborating on Software Developer and Web Developer
 
 
 ### 🚀Skills
