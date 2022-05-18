@@ -1,116 +1,65 @@
-edIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Sajad Saeedi azad
 
-<br />
+<img src="https://instagram.fllk1-6.fna.fbcdn.net/v/t51.2885-19/277217512_385018029850464_6833734361770578197_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fllk1-6.fna.fbcdn.net&_nc_cat=100&_nc_ohc=lK2oEI6d1ysAX8dlo6i&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT_JNmXxaXhyTd2Iq8buKPIYFys5BCrze1IBgPhKqZL8JQ&oe=628C7EEA&_nc_sid=9a90d6" 
+     widt="100" height="100"  align="center"  >
+ 
+==============================
 
----
+Software and Web Developer👨🏻‍💻
+---------------------------------
+I am interested in the world of web and technology and digital marketing and now I am a Software and Web Developer, I am learning every day and every moment and this path continues ...
 
-### Languages and Tools:
+Web developer,with extensive knowledge and years of experience,working in web technologies and Ui/Ux design,delivering quality work. Fluent in designing and implementing databases in all disciplines with Microsoft Access platform and SQL Server Ability to produce software under Windows with C # and Web .NET languages Ability to create a website with ASP.net MVC.Core technology
 
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
-[<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://eslint.org/)
-[<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
-<img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
-</code>](https://www.latex-project.org/)
-[<code>
-<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
-</code>](https://www.markdownguide.org/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-<br />
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
-[<code>
-<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
-</code>](https://developer.apple.com/macos/)
-[<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
 
----
 
-## 📝 Latest Blog Posts
+* 🌍  I'm based in Iran, Ahvaz
+* 🖥️  See my portfolio at [sajadsaeediazadresume.netlify.app](http://sajadsaeediazadresume.netlify.app)
+* ✉️  You can contact me at [sajadsaeediazad0007@gmail.com](mailto:sajadsaeediazad0007@gmail.com)
+* 🧠  I'm learning javascript and React
+* 🤝  I'm open to collaborating on Software and Web Developer
 
-These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to](https://dev.to/thesabesan):
 
-### Medium
+### 🚀Skills
 
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<img alt="react"  width="36" height="36" src="https://img.icons8.com/color/240/000000/react-native.png" />
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="36" height="36"/> </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="36" height="36" /> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+ 
+<a href="https://www.microsoft.com/en-us/microsoft-365/access"><img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" width="36" height="36"/>
+  </a>
+  <a href="https://www.office.com/"><img src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png" width="36" height="36" />
+  </a> </p>
 
-### Dev Community
 
-<!-- DEVTO:START -->
-<!-- DEVTO:END -->
+### 📱Socials
 
----
+<p align="left"> <a href="https://www.github.com/Sajadssa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sajad_saeedi_azad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/sajad-saeedi-azad-2085b9102/?original_referer=https%3A%2F%2Fwww%2Ebing%2Ecom%2F&originalSubdomain=ir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.twitter.com/sajadsaeediazad77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-<a href="https://github.com/sabesansathananthan">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/sabesansathananthan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+### 📊Badges
+
+<b>My GitHub Status</b>
+
+<a href="http://www.github.com/Sajadssa"><img src="https://github-readme-stats.vercel.app/api?username=Sajadssa&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sajadssa's GitHub stats" /></a>
+
+<a href="https://github.com/Sajadssa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajadssa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### ❤Views and followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Sajadssa">
 </a>
+<a href="https://github.com/Sajadssa?tab=followers"><img src="https://img.shields.io/github/followers/Sajadssa?label=Followers&style=social" alt="GitHub Badge"></a>
 
----
-
-[website]: https://sabesansathananthan.now.sh
-[twitter]: https://twitter.com/TheSabesan
-[facebook]: https://www.facebook.com/sathananthan.sabesan
-[instagram]: https://www.instagram.com/s_sabesan
-[linkedin]: https://www.linkedin.com/in/sabesan96
+<p align="center">
+  <img src="" width="250">   
+</p>
