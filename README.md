@@ -42,9 +42,22 @@ Web developer,with extensive knowledge and years of experience,working in web te
   <a href="https://www.linkedin.com/in/sajad-saeedi-azad-2085b9102/?original_referer=https%3A%2F%2Fwww%2Ebing%2Ecom%2F&originalSubdomain=ir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a> 
   <a href="https://www.twitter.com/sajadsaeediaza77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-  <b>Portfolio: Medical Clinic integrated System With C# and SQL Server</b>
-  <img src="https://user-images.githubusercontent.com/55943862/169033668-b315ff42-3ff2-4df0-be1c-4abcee454330.png" width="550" height="350" border-radius=20>
+  
+### 💼Portfolio
+<a href="https://github.com/Sajadssa/Intelligent-Patient-Admission-Management-System"><b>Medical Clinic integrated System With C# and SQL Server</b></a>
      
+
+     
+ <img src="https://user-images.githubusercontent.com/55943862/169033668-b315ff42-3ff2-4df0-be1c-4abcee454330.png" width="400" height="200" border-radius=20>
+ 
+    
+<a href="https://github.com/Sajadssa/Responsive-Social-media"><b>Responsive Social Media</b></a>
+     
+<img src="https://user-images.githubusercontent.com/55943862/169060674-ba8e6f4c-7070-4837-86dc-bc54343cd759.png" width="400" height="200">
+
+<a href="https://github.com/Sajadssa/admin-dashboard"><b>admin-dashboard</b></a>
+ 
+<img src="https://user-images.githubusercontent.com/55943862/169075334-98218f94-2fd0-490d-a486-2bff4603da11.png" width="400" height="200">
 
 
 ### 📊Badges
