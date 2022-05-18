@@ -5,7 +5,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
  
 ==============================
 
-Software and Web Developer👨🏻‍💻
+Software Developer and Web Developer👨🏻‍💻
 ---------------------------------
 I am interested in the world of web and technology and digital marketing and now I am a Software and Web Developer, I am learning every day and every moment and this path continues ...
 
