@@ -42,7 +42,9 @@ Web developer,with extensive knowledge and years of experience,working in web te
   <a href="https://www.linkedin.com/in/sajad-saeedi-azad-2085b9102/?original_referer=https%3A%2F%2Fwww%2Ebing%2Ecom%2F&originalSubdomain=ir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a> 
   <a href="https://www.twitter.com/sajadsaeediaza77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-![dashboard](https://user-images.githubusercontent.com/55943862/169033668-b315ff42-3ff2-4df0-be1c-4abcee454330.png)
+  <b>Portfolio: Medical Clinic integrated System With C# and SQL Server</b>
+  <img src="https://user-images.githubusercontent.com/55943862/169033668-b315ff42-3ff2-4df0-be1c-4abcee454330.png" width="550" height="350" border-radius=20>
+     
 
 
 ### 📊Badges
