@@ -60,6 +60,4 @@ Web developer,with extensive knowledge and years of experience,working in web te
 </a>
 <a href="https://github.com/Sajadssa?tab=followers"><img src="https://img.shields.io/github/followers/Sajadssa?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<p align="center">
-  <img src="" width="250">   
-</p>
+ 
