@@ -82,6 +82,20 @@ Web developer,with extensive knowledge and years of experience,working in web te
 
 </div>
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   2 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   35.44 %
+Go           1 hr 58 mins    ███████░░░░░░░░░░░░░░░░░░   27.88 %
+Python       1 hr 46 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
+JSON         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Text         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+```
+
+<!--END_SECTION:waka-->
+
+-------
 
 
