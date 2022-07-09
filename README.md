@@ -65,20 +65,20 @@ Web developer,with extensive knowledge and years of experience,working in web te
      
 
      
- <img src="https://user-images.githubusercontent.com/55943862/169033668-b315ff42-3ff2-4df0-be1c-4abcee454330.png" width="400" height="200" border-radius=20>
+ <img src="https://user-images.githubusercontent.com/55943862/169033668-b315ff42-3ff2-4df0-be1c-4abcee454330.png" width="400" height="200" border-radius="20px">
  
     
 <a href="https://github.com/Sajadssa/Responsive-Social-media"><b>Responsive Social Media</b></a>
      
-<img src="https://user-images.githubusercontent.com/55943862/169060674-ba8e6f4c-7070-4837-86dc-bc54343cd759.png" width="400" height="200">
+<img src="https://user-images.githubusercontent.com/55943862/169060674-ba8e6f4c-7070-4837-86dc-bc54343cd759.png" width="400" height="200" border-radius="20px">
 
 <a href="https://github.com/Sajadssa/admin-dashboard"><b>admin-dashboard</b></a>
  
-<img src="https://user-images.githubusercontent.com/55943862/169075334-98218f94-2fd0-490d-a486-2bff4603da11.png" width="400" height="200">
+<img src="https://user-images.githubusercontent.com/55943862/169075334-98218f94-2fd0-490d-a486-2bff4603da11.png" width="400" height="200" border-radius="20px">
 
 <a href="https://github.com/Sajadssa/responsive-portfolio-website-Sajad-main"><b>responsive-portfolio-website-Sajad-main</b></a>
  
-<img src="https://github.com/Sajadssa/responsive-portfolio-website-Sajad-main/blob/master/Web%20capture_4-7-2022_232418_sajadsaeediazadresume.netlify.app.jpeg" width="400" height="200">
+<img src="https://github.com/Sajadssa/responsive-portfolio-website-Sajad-main/blob/master/Web%20capture_4-7-2022_232418_sajadsaeediazadresume.netlify.app.jpeg" width="400" height="200" border-radius="20px">
 
 
 
