@@ -30,14 +30,14 @@ Web developer,with extensive knowledge and years of experience,working in web te
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<img alt="react"  width="36" height="36" src="https://img.icons8.com/color/240/000000/react-native.png" />
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="36" height="36"/> </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="36" height="36" /> </a>
-  <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/github--v1.png" width="36" height="36" /> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="36" height="36" /> </a>
+<a href="https://reactjs.org/"><img alt="react"  width="36" height="36" src="https://img.icons8.com/color/240/000000/react-native.png" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png" width="36" height="36" /> </a>
+ <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/github--v1.png" width="36" height="36" /> </a>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png" width="36" height="36" /> </a>
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="36" height="36"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
  <a href="https://www.microsoft.com/en-us/microsoft-365/access"><img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" width="36" height="36"/>
   </a>
   <a href="https://www.office.com/"><img src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png" width="36" height="36" />
