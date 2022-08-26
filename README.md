@@ -50,23 +50,10 @@ Web developer,with extensive knowledge and years of experience,working in web te
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sajadssa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sajadssa&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajadssa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sajadssa&theme=github_dark) 
-
-
-
-
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sajadssa&hide_border=true&theme=redical)
-[![Ashutosh's github activity graph](https://github-readme-stats.vercel.app/api?username=Sajadssa&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Sajadssa&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical)]()
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajadssa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sajadssa&theme=github_dark) ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sajadssa&hide_border=true&theme=redical)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 ### 📱Socials
-
 <p align="left"> <a href="https://www.github.com/Sajadssa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sajad_saeedi_azad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/sajad-saeedi-azad-2085b9102/?original_referer=https%3A%2F%2Fwww%2Ebing%2Ecom%2F&originalSubdomain=ir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a> 
@@ -75,10 +62,7 @@ Web developer,with extensive knowledge and years of experience,working in web te
 ### 💼Portfolio
 <a href="https://github.com/Sajadssa/Intelligent-Patient-Admission-Management-System"><b>Medical Clinic integrated System With C# and SQL Server</b></a>
      
-
-     
  <img src="https://user-images.githubusercontent.com/55943862/169033668-b315ff42-3ff2-4df0-be1c-4abcee454330.png" width="400" height="200" border-radius="20px">
- 
     
 <a href="https://github.com/Sajadssa/Responsive-Social-media"><b>Responsive Social Media</b></a>
      
