@@ -74,7 +74,7 @@ Web developer,with extensive knowledge and years of experience,working in web te
 
 <a href="https://github.com/Sajadssa/responsive-portfolio-website-Sajad-main"><b>responsive-portfolio-website-Sajad-main</b></a>
  
-<img src="https://github.com/Sajadssa/responsive-portfolio-website-Sajad-main/blob/master/Web%20capture_4-7-2022_232418_sajadsaeediazadresume.netlify.app.jpeg" width="400" height="200" border-radius="20px">
+<img src="https://github.com/Sajadssa/responsive-portfolio-website-Sajad-main/blob/master/sajadresume.jpg" width="400" height="200" border-radius="20px">
 
 
 
