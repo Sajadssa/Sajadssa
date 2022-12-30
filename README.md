@@ -76,7 +76,7 @@ Web developer,with extensive knowledge and years of experience,working in web te
  
 <img src="https://sajadsaeediazadresume.netlify.app/assets/img/sajadresume.jpg" width="400" height="200" border-radius="20px">
 
-<a href="https://github.com/Sajadssa/pharmacology2022.netlify.app"><b>Pharmacology</b></a>
+<a href="https://github.com/Sajadssa/pharmacology"><b>Pharmacology</b></a>
  
 <img src="https://sajadsaeediazadresume.netlify.app/assets/img/Attari_pic.jpg" width="400" height="200" border-radius="20px">
 
