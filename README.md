@@ -22,7 +22,8 @@ Web developer,with extensive knowledge and years of experience,working in web te
 * 🌍  I'm based in Iran, Ahvaz
 * 🖥️  See my portfolio at [sajadsaeediazadresume.netlify.app](http://sajadsaeediazadresume.netlify.app)
 * ✉️  You can contact me at [sajadsaeediazad0007@gmail.com](mailto:sajadsaeediazad0007@gmail.com)
-* 🧠  I'm learning javascript and React and I currently Learning <b font-size="50px" color="Blue"> AI and Meaching Learning</b>
+* 🧠  I'm learning javascript and React and I currently Learning <b font-size="50px" text-color="blue
+"> AI and Meaching Learning</b>
 * 🤝  I'm open to collaborating on Software Developer and Web Developer
 
 
