@@ -20,7 +20,7 @@ Web developer,with extensive knowledge and years of experience,working in web te
 
 
 * 🌍  I'm based in Iran, Ahvaz
-* 🖥️  See my portfolio at [sajadssa.vercel.app](https:// Sajadssa.vercel.app)
+* 🖥️  See my portfolio at [Sajadssa.vercel.app](https://sajadssa.vercel.app)
 * ✉️  You can contact me at [sajadsaeediazad0007@gmail.com](mailto:sajadsaeediazad0007@gmail.com)
 * 🧠  I'm learning javascript and React and I currently Learning <b font-size="50px" text-color="blue
 "> AI and Meaching Learning</b>
